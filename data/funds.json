@@ -1,0 +1,3290 @@
+{
+  "funds": [
+    {
+      "id": "emef-f2",
+      "name": "Emerging Markets Equities Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/emef-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-03-31",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 25.93,
+          "3y": 11.83,
+          "5y": 0.86,
+          "10y": 7.44,
+          "sinceInception": 11.44
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/MFF2FSX-015-1084132.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "EMEEX",
+      "shareClass": "F-2",
+      "inceptionDate": "1986-05-30"
+    },
+    {
+      "id": "eupac-f2",
+      "name": "EUPAC Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/eupac-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 15.84,
+          "3y": 18.28,
+          "5y": 5.81,
+          "10y": 8.89,
+          "sinceInception": 10.43
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-016_eupacf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AEPFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1984-04-16"
+    },
+    {
+      "id": "nef-f2",
+      "name": "The New Economy Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/nef-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 28.15,
+          "3y": 29.78,
+          "5y": 12.75,
+          "10y": 15.66,
+          "sinceInception": 12.23
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-014_neff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "NEFFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1983-12-01"
+    },
+    {
+      "id": "npf-f2",
+      "name": "New Perspective Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/npf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 9.52,
+          "3y": 19.19,
+          "5y": 8.51,
+          "10y": 13.23,
+          "sinceInception": 12.49
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-007_npff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "ANWFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1973-03-13"
+    },
+    {
+      "id": "amcap-f2",
+      "name": "AMCAP Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/amcap-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.71,
+          "3y": 20.03,
+          "5y": 8.83,
+          "10y": 12.72,
+          "sinceInception": 11.8
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-002_amcapf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AMCFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1967-05-01"
+    },
+    {
+      "id": "gfa-f2",
+      "name": "The Growth Fund of America",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/gfa-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 11.82,
+          "3y": 24.8,
+          "5y": 11.57,
+          "10y": 15.71,
+          "sinceInception": 14.07
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-005_gfaf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "GFFFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1973-12-01"
+    },
+    {
+      "id": "scwf-f2",
+      "name": "SMALLCAP World Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/scwf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 13.85,
+          "3y": 13.88,
+          "5y": 1.68,
+          "10y": 9.4,
+          "sinceInception": 9.66
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-035_scwff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "SMCFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1990-04-30"
+    },
+    {
+      "id": "nwf-f2",
+      "name": "New World Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/nwf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 19.76,
+          "3y": 19.74,
+          "5y": 7.45,
+          "10y": 10.39,
+          "sinceInception": 8.74
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-036_nwff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "NFFFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1999-06-17"
+    },
+    {
+      "id": "gif-f2",
+      "name": "American Funds Global Insight Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/gif-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 20.77,
+          "3y": 16.8,
+          "5y": 9.53,
+          "10y": 12.23,
+          "sinceInception": 10.08
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/MFF2SSX-122-636241.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AGVGX",
+      "shareClass": "F-2",
+      "inceptionDate": "2011-04-01"
+    },
+    {
+      "id": "ive-f2",
+      "name": "American Funds International Vantage Fund",
+      "type": "Mutual fund",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ive-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 13.55,
+          "3y": 12.66,
+          "5y": 6.54,
+          "10y": 9.53,
+          "sinceInception": 7.14
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/MFF2SSX-123-636251.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AIVFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2011-04-01"
+    },
+    {
+      "id": "wgi-f2",
+      "name": "Capital World Growth and Income Fund",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/wgi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 20.05,
+          "3y": 22.44,
+          "5y": 11.88,
+          "10y": 11.93,
+          "sinceInception": 11.0
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-033_wgif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "WGIFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1993-03-26"
+    },
+    {
+      "id": "igi-f2",
+      "name": "International Growth and Income Fund",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/igi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 25.48,
+          "3y": 18.24,
+          "5y": 9.09,
+          "10y": 10.06,
+          "sinceInception": 8.28
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-034_igif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "IGFFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2008-10-01"
+    },
+    {
+      "id": "amf-f2",
+      "name": "American Mutual Fund",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/amf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.69,
+          "3y": 16.12,
+          "5y": 10.71,
+          "10y": 11.13,
+          "sinceInception": 11.67
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-003_amff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AMRFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1950-02-21"
+    },
+    {
+      "id": "fi-f2",
+      "name": "Fundamental Investors",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/fi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 18.13,
+          "3y": 25.34,
+          "5y": 14.75,
+          "10y": 14.81,
+          "sinceInception": 13.01
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-010_fif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "FINFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1978-08-01"
+    },
+    {
+      "id": "ica-f2",
+      "name": "The Investment Company of America",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ica-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.54,
+          "3y": 23.66,
+          "5y": 14.59,
+          "10y": 14.17,
+          "sinceInception": 12.48
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-004_icaf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "ICAFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1934-01-01"
+    },
+    {
+      "id": "wmif-f2",
+      "name": "Washington Mutual Investors Fund",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/wmif-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.65,
+          "3y": 18.29,
+          "5y": 12.38,
+          "10y": 13.23,
+          "sinceInception": 12.14
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-001_wmiff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "WMFFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1952-07-31"
+    },
+    {
+      "id": "dwgi-f2",
+      "name": "American Funds Developing World Growth and Income Fund",
+      "type": "Mutual fund",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/dwgi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 23.43,
+          "3y": 21.77,
+          "5y": 6.81,
+          "10y": 7.68,
+          "sinceInception": 5.96
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-100_dwgif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "DWGHX",
+      "shareClass": "F-2",
+      "inceptionDate": "2014-02-03"
+    },
+    {
+      "id": "cib-f2",
+      "name": "Capital Income Builder",
+      "type": "Mutual fund",
+      "category": "Equity income",
+      "description": "Pursue income with an equity component. An income-oriented equity component.",
+      "goal": "Pursue income with an equity component.",
+      "use": "An income-oriented equity component.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cib-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 10.49,
+          "3y": 16.01,
+          "5y": 9.13,
+          "10y": 7.93,
+          "sinceInception": 9.08
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-012_cibf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CAIFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1987-07-30"
+    },
+    {
+      "id": "ifa-f2",
+      "name": "The Income Fund of America",
+      "type": "Mutual fund",
+      "category": "Equity income",
+      "description": "Pursue income with an equity component. An income-oriented equity component.",
+      "goal": "Pursue income with an equity component.",
+      "use": "An income-oriented equity component.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ifa-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.15,
+          "3y": 14.49,
+          "5y": 8.35,
+          "10y": 8.48,
+          "sinceInception": 10.71
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-006_ifaf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AMEFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1973-12-01"
+    },
+    {
+      "id": "gbal-f2",
+      "name": "American Funds Global Balanced Fund",
+      "type": "Mutual fund",
+      "category": "Balanced",
+      "description": "Combine stocks and bonds in one strategy. A combined equity and fixed-income allocation.",
+      "goal": "Combine stocks and bonds in one strategy.",
+      "use": "A combined equity and fixed-income allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/gbal-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 13.39,
+          "3y": 12.03,
+          "5y": 6.03,
+          "10y": 7.15,
+          "sinceInception": 6.87
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-037_gbalf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "GBLFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2011-02-01"
+    },
+    {
+      "id": "ambal-f2",
+      "name": "American Balanced Fund",
+      "type": "Mutual fund",
+      "category": "Balanced",
+      "description": "Combine stocks and bonds in one strategy. A combined equity and fixed-income allocation.",
+      "goal": "Combine stocks and bonds in one strategy.",
+      "use": "A combined equity and fixed-income allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ambal-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 11.22,
+          "3y": 17.18,
+          "5y": 9.43,
+          "10y": 10.04,
+          "sinceInception": 10.72
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-011_ambalf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AMBFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1975-07-26"
+    },
+    {
+      "id": "afcp-f2",
+      "name": "American Funds Core Plus Bond Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/afcp-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "unavailable",
+        "returns": {
+          "1y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": null
+        },
+        "source": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/afcp-f2",
+        "note": "Official detail page returned an empty dynamic performance table and no fact-sheet link. Search extracts had values without an independently verified reporting date; excluded rather than inferred."
+      },
+      "ticker": "AFCFX",
+      "shareClass": "F-2"
+    },
+    {
+      "id": "ahit-f2",
+      "name": "American High-Income Trust",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ahit-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 6.42,
+          "3y": 9.47,
+          "5y": 4.9,
+          "10y": 6.27,
+          "sinceInception": 7.57
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-021_ahitf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AHIFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1988-02-19"
+    },
+    {
+      "id": "cbf-f2",
+      "name": "American Funds Corporate Bond Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cbf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -2.97,
+          "3y": 4.43,
+          "5y": -0.91,
+          "10y": 1.95,
+          "sinceInception": 2.63
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-032_cbff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "BFCGX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-12-14"
+    },
+    {
+      "id": "embf-f2",
+      "name": "American Funds Emerging Markets Bond Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/embf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 3.05,
+          "3y": 8.59,
+          "5y": 3.08,
+          "10y": 3.82,
+          "sinceInception": 4.2
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-114_embff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "EBNFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2016-04-22"
+    },
+    {
+      "id": "ilbf-f2",
+      "name": "American Funds Inflation Linked Bond Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ilbf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 2.71,
+          "3y": 3.9,
+          "5y": 0.39,
+          "10y": 2.46,
+          "sinceInception": 1.84
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-060_ilbff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "BFIGX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-12-14"
+    },
+    {
+      "id": "msi-f2",
+      "name": "American Funds Multi-Sector Income Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/msi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -0.26,
+          "3y": 7.08,
+          "5y": 2.27,
+          "10y": null,
+          "sinceInception": 4.28
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/MFF2SSX-126-647791.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "MIAYX",
+      "shareClass": "F-2",
+      "inceptionDate": "2019-03-22"
+    },
+    {
+      "id": "sbf-f2",
+      "name": "American Funds Strategic Bond Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/sbf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -4.01,
+          "3y": 2.85,
+          "5y": -1.9,
+          "10y": 1.75,
+          "sinceInception": 2.03
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-112_sbff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "ANBFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2016-03-18"
+    },
+    {
+      "id": "stbf-f2",
+      "name": "Short-Term Bond Fund of America",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/stbf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 2.76,
+          "3y": 4.64,
+          "5y": 2.08,
+          "10y": 1.93,
+          "sinceInception": 1.9
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-048_stbff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "SBFFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2006-10-02"
+    },
+    {
+      "id": "ibfa-f2",
+      "name": "Intermediate Bond Fund of America",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ibfa-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -0.66,
+          "3y": 4.27,
+          "5y": 0.97,
+          "10y": 1.78,
+          "sinceInception": 4.21
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-023_ibfaf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "IBAFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1988-02-19"
+    },
+    {
+      "id": "gvt-f2",
+      "name": "U.S. Government Securities Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/gvt-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 2.84,
+          "3y": 3.77,
+          "5y": 0.17,
+          "10y": 1.41,
+          "sinceInception": 4.98
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-022_gvtf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "GVTFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1985-10-17"
+    },
+    {
+      "id": "afmf-f2",
+      "name": "American Funds Mortgage Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/afmf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 3.77,
+          "3y": 4.19,
+          "5y": 0.63,
+          "10y": 1.59,
+          "sinceInception": 2.06
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-042_afmff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "MFAFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2010-11-01"
+    },
+    {
+      "id": "bfa-f2",
+      "name": "The Bond Fund of America",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/bfa-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -2.13,
+          "3y": 4.03,
+          "5y": -0.57,
+          "10y": 1.56,
+          "sinceInception": 6.75
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-008_bfaf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "ABNFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1974-05-28"
+    },
+    {
+      "id": "wbf-f2",
+      "name": "Capital World Bond Fund",
+      "type": "Mutual fund",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/wbf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -0.14,
+          "3y": 3.27,
+          "5y": -1.9,
+          "10y": 0.56,
+          "sinceInception": 5.06
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-031_wbff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "BFWFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1987-08-04"
+    },
+    {
+      "id": "ahim-f2",
+      "name": "American High-Income Municipal Bond Fund",
+      "type": "Mutual fund",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ahim-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -1.21,
+          "3y": 5.29,
+          "5y": 0.85,
+          "10y": 2.8,
+          "sinceInception": 4.96
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-040_ahimf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AHMFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1994-09-26"
+    },
+    {
+      "id": "stex-f2",
+      "name": "American Funds Short-Term Tax-Exempt Bond Fund",
+      "type": "Mutual fund",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/stex-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 0.14,
+          "3y": 3.4,
+          "5y": 1.36,
+          "10y": 1.46,
+          "sinceInception": 1.44
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-039_stexf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "ASTFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2009-08-07"
+    },
+    {
+      "id": "tefny-f2",
+      "name": "American Funds Tax-Exempt Fund of New York",
+      "type": "Mutual fund",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/tefny-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -2.6,
+          "3y": 2.95,
+          "5y": -0.45,
+          "10y": 1.25,
+          "sinceInception": 2.52
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-041_tefnyf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "NYAFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2010-11-01"
+    },
+    {
+      "id": "ltex-f2",
+      "name": "Limited Term Tax-Exempt Bond Fund of America",
+      "type": "Mutual fund",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ltex-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 4.67,
+          "3y": 3.99,
+          "5y": 1.63,
+          "10y": 1.97,
+          "sinceInception": 3.6
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-043_ltexf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "LTEFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1993-10-06"
+    },
+    {
+      "id": "tebf-f2",
+      "name": "The Tax-Exempt Bond Fund of America",
+      "type": "Mutual fund",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/tebf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -2.13,
+          "3y": 3.35,
+          "5y": 0.13,
+          "10y": 1.7,
+          "sinceInception": 5.67
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-019_tebff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "TEAFX",
+      "shareClass": "F-2",
+      "inceptionDate": "1979-10-03"
+    },
+    {
+      "id": "tefca-f2",
+      "name": "The Tax-Exempt Fund of California",
+      "type": "Mutual fund",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/tefca-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -2.7,
+          "3y": 3.25,
+          "5y": -0.04,
+          "10y": 1.57,
+          "sinceInception": 4.76
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-020_tefcaf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Source may include hypothetical history before the selected share class began; see footnotes. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "TEFEX",
+      "shareClass": "F-2",
+      "inceptionDate": "1986-10-28"
+    },
+    {
+      "id": "mmf-f2",
+      "name": "American Funds U.S. Government Money Market Fund",
+      "type": "Mutual fund",
+      "category": "Money market",
+      "description": "Seek liquidity and capital stability with short-term government instruments. Short-horizon liquidity management, not a bank deposit.",
+      "goal": "Seek liquidity and capital stability with short-term government instruments.",
+      "use": "Short-horizon liquidity management, not a bank deposit.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/mmf-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 3.6,
+          "3y": 4.37,
+          "5y": 3.33,
+          "10y": 2.05,
+          "sinceInception": 1.19
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-059_afmmff2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "AFGXX",
+      "shareClass": "F-2",
+      "inceptionDate": "2009-05-01"
+    },
+    {
+      "id": "cgui",
+      "name": "Capital Group Ultra Short Income ETF",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgui",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 3.63,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 4.69
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-320-1060063.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGUI",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cgsd",
+      "name": "Capital Group Short Duration Income ETF",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgsd",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 1.6,
+          "3y": 4.95,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 4.78
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-307-1027004.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGSD",
+      "inceptionDate": "2022-10-25"
+    },
+    {
+      "id": "cgcb",
+      "name": "Capital Group Core Bond ETF",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgcb",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -1.92,
+          "3y": 4.11,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 4.06
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-312-1039179.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGCB",
+      "inceptionDate": "2023-09-26"
+    },
+    {
+      "id": "cgcp",
+      "name": "Capital Group Core Plus Income ETF",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgcp",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -1.96,
+          "3y": 4.75,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 0.88
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-306-655011.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGCP",
+      "inceptionDate": "2022-02-22"
+    },
+    {
+      "id": "cgms",
+      "name": "Capital Group U.S. Multi-Sector Income ETF",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgms",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 0.51,
+          "3y": 7.18,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 7.43
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-308-1027003.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGMS",
+      "inceptionDate": "2022-10-25"
+    },
+    {
+      "id": "cghy",
+      "name": "Capital Group High Yield Bond ETF",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cghy",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 1.34,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 3.45
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-326-1073116.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGHY",
+      "inceptionDate": "2025-06-24"
+    },
+    {
+      "id": "cgib",
+      "name": "Capital Group International Bond ETF (USD-Hedged)",
+      "type": "ETF",
+      "category": "Taxable bond",
+      "description": "Pursue income through fixed-income securities. A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "goal": "Pursue income through fixed-income securities.",
+      "use": "A fixed-income allocation; duration and credit exposure differ by strategy.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgib",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -0.31,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 2.78
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-321-1059904.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGIB",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cgsm",
+      "name": "Capital Group Short Duration Municipal Income ETF",
+      "type": "ETF",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgsm",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 0.34,
+          "3y": 4.0,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 3.98
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-313-1039180.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGSM",
+      "inceptionDate": "2023-09-26"
+    },
+    {
+      "id": "cgmu",
+      "name": "Capital Group Municipal Income ETF",
+      "type": "ETF",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgmu",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -1.46,
+          "3y": 3.77,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 4.22
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-309-1026999.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGMU",
+      "inceptionDate": "2022-10-25"
+    },
+    {
+      "id": "cghm",
+      "name": "Capital Group Municipal High-Income ETF",
+      "type": "ETF",
+      "category": "Tax-exempt bond",
+      "description": "Pursue income from municipal debt. A municipal-bond allocation where tax treatment is relevant.",
+      "goal": "Pursue income from municipal debt.",
+      "use": "A municipal-bond allocation where tax treatment is relevant.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cghm",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Interest-rate and issuer-credit risks apply. Some income or distributions may still be taxable. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -0.67,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 2.0
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-322-1060050.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGHM",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cggg",
+      "name": "Capital Group U.S. Large Growth ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cggg",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 1.18,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 9.56
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-324-1073114.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGGG",
+      "inceptionDate": "2025-06-24"
+    },
+    {
+      "id": "cgvv",
+      "name": "Capital Group U.S. Large Value ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgvv",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 18.03,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 17.88
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-325-1073115.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGVV",
+      "inceptionDate": "2025-06-24"
+    },
+    {
+      "id": "cgcv",
+      "name": "Capital Group Conservative Equity ETF",
+      "type": "ETF",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgcv",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.25,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 13.38
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-315-1060051.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGCV",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cgdv",
+      "name": "Capital Group Dividend Value ETF",
+      "type": "ETF",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgdv",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 17.73,
+          "3y": 24.5,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 17.74
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-304-654991.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGDV",
+      "inceptionDate": "2022-02-22"
+    },
+    {
+      "id": "cgus",
+      "name": "Capital Group Core Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgus",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 13.52,
+          "3y": 22.27,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 14.98
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-301-654961.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGUS",
+      "inceptionDate": "2022-02-22"
+    },
+    {
+      "id": "cggr",
+      "name": "Capital Group Growth ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cggr",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.14,
+          "3y": 24.94,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 15.83
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-302-654971.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGGR",
+      "inceptionDate": "2022-02-22"
+    },
+    {
+      "id": "cgmm",
+      "name": "Capital Group U.S. Small and Mid Cap ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgmm",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 9.5,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 12.37
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-323-1072643.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGMM",
+      "inceptionDate": "2025-01-14"
+    },
+    {
+      "id": "cgic",
+      "name": "Capital Group International Core Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgic",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 19.5,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 19.34
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-317-1060048.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGIC",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cgie",
+      "name": "Capital Group International Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgie",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 10.63,
+          "3y": 15.27,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 15.3
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-311-1039178.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGIE",
+      "inceptionDate": "2023-09-26"
+    },
+    {
+      "id": "cgxu",
+      "name": "Capital Group International Focus Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgxu",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 22.69,
+          "3y": 19.48,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 9.82
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-303-654981.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGXU",
+      "inceptionDate": "2022-02-22"
+    },
+    {
+      "id": "cgdg",
+      "name": "Capital Group Dividend Growers ETF",
+      "type": "ETF",
+      "category": "Growth and income",
+      "description": "Combine capital growth with income. An equity allocation emphasizing both appreciation and distributions.",
+      "goal": "Combine capital growth with income.",
+      "use": "An equity allocation emphasizing both appreciation and distributions.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgdg",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 9.61,
+          "3y": 16.78,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 16.78
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-310-1039177.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGDG",
+      "inceptionDate": "2023-09-26"
+    },
+    {
+      "id": "cgge",
+      "name": "Capital Group Global Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgge",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 13.83,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 16.06
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-318-1060049.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGGE",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cggo",
+      "name": "Capital Group Global Growth Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cggo",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 17.91,
+          "3y": 21.59,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 12.24
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-305-655001.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGGO",
+      "inceptionDate": "2022-02-22"
+    },
+    {
+      "id": "cgng",
+      "name": "Capital Group New Geography Equity ETF",
+      "type": "ETF",
+      "category": "Growth",
+      "description": "Pursue long-term capital growth. Long-horizon equity allocation.",
+      "goal": "Pursue long-term capital growth.",
+      "use": "Long-horizon equity allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgng",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 19.13,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 18.54
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-319-1059905.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGNG",
+      "inceptionDate": "2024-06-25"
+    },
+    {
+      "id": "cgbl",
+      "name": "Capital Group Core Balanced ETF",
+      "type": "ETF",
+      "category": "Balanced",
+      "description": "Combine stocks and bonds in one strategy. A combined equity and fixed-income allocation.",
+      "goal": "Combine stocks and bonds in one strategy.",
+      "use": "A combined equity and fixed-income allocation.",
+      "url": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgbl",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Market prices can differ from NAV; spreads and trading costs matter.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 8.06,
+          "3y": 16.09,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 16.13
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ETGEFSX-314-1039181.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV returns, not exchange market-price returns; trading costs may reduce an investor’s result. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CGBL",
+      "inceptionDate": "2023-09-26"
+    },
+    {
+      "id": "psgg-f2",
+      "name": "American Funds Global Growth Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/psgg-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 25.1,
+          "3y": 20.11,
+          "5y": 9.03,
+          "10y": 13.03,
+          "sinceInception": 12.3
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-055_psggf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "PGWFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "psg-f2",
+      "name": "American Funds Growth Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/psg-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 13.54,
+          "3y": 22.11,
+          "5y": 9.93,
+          "10y": 13.03,
+          "sinceInception": 13.1
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-053_psgf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "GWPEX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "psgi-f2",
+      "name": "American Funds Growth and Income Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/psgi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 10.56,
+          "3y": 17.73,
+          "5y": 9.35,
+          "10y": 10.6,
+          "sinceInception": 10.69
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-051_psgif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "GAIEX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "psmgi-f2",
+      "name": "American Funds Moderate Growth and Income Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/psmgi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 16.16,
+          "3y": 14.57,
+          "5y": 7.96,
+          "10y": 9.49,
+          "sinceInception": 9.58
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-050_psbf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "BLPEX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "pscgi-f2",
+      "name": "American Funds Conservative Growth and Income Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/pscgi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 11.61,
+          "3y": 11.87,
+          "5y": 6.78,
+          "10y": 7.42,
+          "sinceInception": 7.56
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-047_psif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "INPEX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "pstacgi-f2",
+      "name": "American Funds Tax-Aware Conservative Growth and Income Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/pstacgi-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 15.04,
+          "3y": 12.68,
+          "5y": 7.27,
+          "10y": 8.09,
+          "sinceInception": 8.41
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-046_pstaif2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "TXIFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "psp-f2",
+      "name": "American Funds Preservation Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/psp-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 2.82,
+          "3y": 4.72,
+          "5y": 1.71,
+          "10y": 1.96,
+          "sinceInception": 1.83
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-045_pspf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "PPEFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "pstep-f2",
+      "name": "American Funds Tax-Exempt Preservation Portfolio",
+      "type": "Mutual fund",
+      "category": "Portfolio series",
+      "description": "Combine underlying funds around the named growth, income or preservation objective. A diversified, packaged allocation built from underlying funds.",
+      "goal": "Combine underlying funds around the named growth, income or preservation objective.",
+      "use": "A diversified, packaged allocation built from underlying funds.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/pstep-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 4.15,
+          "3y": 3.84,
+          "5y": 1.59,
+          "10y": 1.76,
+          "sinceInception": 2.08
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mff2ssx-044_pstepf2ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "TXEFX",
+      "shareClass": "F-2",
+      "inceptionDate": "2012-05-18"
+    },
+    {
+      "id": "ric-a",
+      "name": "American Funds Retirement Income Portfolio - Conservative",
+      "type": "Mutual fund",
+      "category": "Retirement income",
+      "description": "Balance income, growth and capital conservation during retirement. A diversified allocation for the withdrawal phase, without guaranteed payments.",
+      "goal": "Balance income, growth and capital conservation during retirement.",
+      "use": "A diversified allocation for the withdrawal phase, without guaranteed payments.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/ric-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 9.43,
+          "3y": 9.5,
+          "5y": 4.56,
+          "10y": 5.49,
+          "sinceInception": 5.67
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-109_ricffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "NAARX",
+      "shareClass": "A",
+      "inceptionDate": "2015-08-28"
+    },
+    {
+      "id": "rim-a",
+      "name": "American Funds Retirement Income Portfolio - Moderate",
+      "type": "Mutual fund",
+      "category": "Retirement income",
+      "description": "Balance income, growth and capital conservation during retirement. A diversified allocation for the withdrawal phase, without guaranteed payments.",
+      "goal": "Balance income, growth and capital conservation during retirement.",
+      "use": "A diversified allocation for the withdrawal phase, without guaranteed payments.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/rim-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.78,
+          "3y": 12.09,
+          "5y": 6.52,
+          "10y": 7.06,
+          "sinceInception": 7.18
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-110_rimffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "NBARX",
+      "shareClass": "A",
+      "inceptionDate": "2015-08-28"
+    },
+    {
+      "id": "rie-a",
+      "name": "American Funds Retirement Income Portfolio - Enhanced",
+      "type": "Mutual fund",
+      "category": "Retirement income",
+      "description": "Balance income, growth and capital conservation during retirement. A diversified allocation for the withdrawal phase, without guaranteed payments.",
+      "goal": "Balance income, growth and capital conservation during retirement.",
+      "use": "A diversified allocation for the withdrawal phase, without guaranteed payments.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/rie-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 15.23,
+          "3y": 14.25,
+          "5y": 8.04,
+          "10y": 8.4,
+          "sinceInception": 8.49
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-111_rieffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "NDARX",
+      "shareClass": "A",
+      "inceptionDate": "2015-08-28"
+    },
+    {
+      "id": "cf42-529a",
+      "name": "American Funds College 2042 Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cf42-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.73,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 15.47
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/CA5ASSX-144-1054961.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CABAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2024-03-15"
+    },
+    {
+      "id": "cf39-529a",
+      "name": "American Funds College 2039 Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cf39-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 10.53,
+          "3y": 18.16,
+          "5y": 8.34,
+          "10y": null,
+          "sinceInception": 8.56
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/CA5ASSX-136-648751.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CDJAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2021-03-26"
+    },
+    {
+      "id": "cf36-529a",
+      "name": "American Funds College 2036 Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cf36-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 7.3,
+          "3y": 15.44,
+          "5y": 7.05,
+          "10y": null,
+          "sinceInception": 8.46
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/CA5ASSX-125-618131.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CCFAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2018-02-09"
+    },
+    {
+      "id": "cf33-529a",
+      "name": "American Funds College 2033 Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cf33-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 4.29,
+          "3y": 12.13,
+          "5y": 5.26,
+          "10y": 7.82,
+          "sinceInception": 7.07
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ca5assx-103_ctd33529affs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CTLAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2015-03-27"
+    },
+    {
+      "id": "cf30-529a",
+      "name": "American Funds College 2030 Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cf30-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 1.93,
+          "3y": 9.21,
+          "5y": 3.83,
+          "10y": 6.13,
+          "sinceInception": 6.82
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ca5assx-094_ctd30529affs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CTHAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2012-09-14"
+    },
+    {
+      "id": "cf27-529a",
+      "name": "American Funds College 2027 Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cf27-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 1.06,
+          "3y": 6.98,
+          "5y": 2.47,
+          "10y": 4.53,
+          "sinceInception": 5.43
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ca5assx-093_ctd27529affs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CSTAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2012-09-14"
+    },
+    {
+      "id": "cef-529a",
+      "name": "American Funds College Enrollment Fund",
+      "type": "Mutual fund",
+      "category": "Target-date college",
+      "description": "Adjust the investment mix around an anticipated college-enrollment date. Education saving in a compatible 529 plan.",
+      "goal": "Adjust the investment mix around an anticipated college-enrollment date.",
+      "use": "Education saving in a compatible 529 plan.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/cef-529a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 0.82,
+          "3y": 5.44,
+          "5y": 1.78,
+          "10y": 1.88,
+          "sinceInception": 1.61
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/ca5assx-088_cef529affs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "ticker": "CENAX",
+      "shareClass": "529-A",
+      "inceptionDate": "2012-09-14"
+    },
+    {
+      "id": "usep-f2",
+      "name": "Capital Group KKR U.S. Equity+",
+      "type": "Interval fund",
+      "category": "Public/private investing",
+      "description": "Combine publicly traded and private-market investments. A long-horizon allocation for investors able to accept restricted liquidity.",
+      "goal": "Combine publicly traded and private-market investments.",
+      "use": "A long-horizon allocation for investors able to accept restricted liquidity.",
+      "url": "https://www.capitalgroup.com/advisor/investments/interval-funds/details/usep-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Limited repurchases, illiquidity and private-asset valuation risk; not daily liquidity.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV total return, cumulative since inception (less than one year), not annualized",
+        "returns": {
+          "1y": null,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": null
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/PVF2FSX-402-1091638.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns. Since inception is cumulative, not annualized; no one-year history yet.",
+        "cumulativeSinceInceptionPercent": 7.51,
+        "sinceInceptionBasis": "Cumulative, less than one year"
+      },
+      "shareClass": "F-2",
+      "ticker": "USEAX",
+      "inceptionDate": "2026-03-02"
+    },
+    {
+      "id": "cpp-f2",
+      "name": "Capital Group KKR Core Plus+",
+      "type": "Interval fund",
+      "category": "Public/private investing",
+      "description": "Combine publicly traded and private-market investments. A long-horizon allocation for investors able to accept restricted liquidity.",
+      "goal": "Combine publicly traded and private-market investments.",
+      "use": "A long-horizon allocation for investors able to accept restricted liquidity.",
+      "url": "https://www.capitalgroup.com/advisor/investments/interval-funds/details/cpp-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Limited repurchases, illiquidity and private-asset valuation risk; not daily liquidity.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": -0.37,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 2.49
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/PVF2FSX-400-1072473.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "F-2",
+      "ticker": "CPPLX",
+      "inceptionDate": "2025-04-29"
+    },
+    {
+      "id": "msp-f2",
+      "name": "Capital Group KKR Multi-Sector+",
+      "type": "Interval fund",
+      "category": "Public/private investing",
+      "description": "Combine publicly traded and private-market investments. A long-horizon allocation for investors able to accept restricted liquidity.",
+      "goal": "Combine publicly traded and private-market investments.",
+      "use": "A long-horizon allocation for investors able to accept restricted liquidity.",
+      "url": "https://www.capitalgroup.com/advisor/investments/interval-funds/details/msp-f2",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. Limited repurchases, illiquidity and private-asset valuation risk; not daily liquidity.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 5.16,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 6.83
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/PVF2FSX-401-1072477.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. Selected share class only; advisory/account fees may be additional. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "F-2",
+      "ticker": "MSPEX",
+      "inceptionDate": "2025-04-29"
+    },
+    {
+      "id": "aftd10-a",
+      "name": "American Funds 2010 Target Date Retirement Income Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd10-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 3.82,
+          "3y": 10.05,
+          "5y": 4.75,
+          "10y": 5.73,
+          "sinceInception": 5.05
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-061_td2010ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAATX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd15-a",
+      "name": "American Funds 2015 Target Date Retirement Income Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd15-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 4.22,
+          "3y": 10.51,
+          "5y": 4.91,
+          "10y": 6.1,
+          "sinceInception": 5.36
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-062_td2015ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AABTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd20-a",
+      "name": "American Funds 2020 Target Date Retirement Income Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd20-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 4.68,
+          "3y": 11.25,
+          "5y": 5.24,
+          "10y": 6.61,
+          "sinceInception": 5.69
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-063_td2020ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AACTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd25-a",
+      "name": "American Funds 2025 Target Date Retirement Income Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd25-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 5.0,
+          "3y": 11.67,
+          "5y": 5.34,
+          "10y": 7.33,
+          "sinceInception": 6.3
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-064_td2025ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AADTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd30-a",
+      "name": "American Funds 2030 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd30-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 6.14,
+          "3y": 13.21,
+          "5y": 6.21,
+          "10y": 8.46,
+          "sinceInception": 7.05
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-065_td2030ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAETX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd35-a",
+      "name": "American Funds 2035 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd35-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 14.67,
+          "3y": 14.47,
+          "5y": 7.55,
+          "10y": 10.46,
+          "sinceInception": 7.95
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-066_td2035ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAFTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd40-a",
+      "name": "American Funds 2040 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd40-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 10.49,
+          "3y": 17.61,
+          "5y": 8.69,
+          "10y": 10.9,
+          "sinceInception": 8.3
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-067_td2040ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAGTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd45-a",
+      "name": "American Funds 2045 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd45-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 19.97,
+          "3y": 17.77,
+          "5y": 9.41,
+          "10y": 11.94,
+          "sinceInception": 8.71
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-068_td2045ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAHTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd50-a",
+      "name": "American Funds 2050 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd50-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.29,
+          "3y": 18.88,
+          "5y": 9.2,
+          "10y": 11.38,
+          "sinceInception": 8.55
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-069_td2050ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AALTX",
+      "inceptionDate": "2007-02-01"
+    },
+    {
+      "id": "aftd55-a",
+      "name": "American Funds 2055 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd55-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.73,
+          "3y": 19.19,
+          "5y": 9.28,
+          "10y": 11.42,
+          "sinceInception": 10.89
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-082_td2055ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAMTX",
+      "inceptionDate": "2010-02-01"
+    },
+    {
+      "id": "aftd60-a",
+      "name": "American Funds 2060 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd60-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.9,
+          "3y": 19.29,
+          "5y": 9.29,
+          "10y": 11.43,
+          "sinceInception": 10.34
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/mfaassx-083_td2060ffs.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AANTX",
+      "inceptionDate": "2015-03-27"
+    },
+    {
+      "id": "aftd65-a",
+      "name": "American Funds 2065 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd65-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-09-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 12.92,
+          "3y": 19.28,
+          "5y": 9.26,
+          "10y": null,
+          "sinceInception": 15.25
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/MFAASSX-185-633531.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAOTX",
+      "inceptionDate": "2020-03-27"
+    },
+    {
+      "id": "aftd70-a",
+      "name": "American Funds 2070 Target Date Retirement Fund",
+      "type": "Mutual fund",
+      "category": "Target-date retirement",
+      "description": "Adjust the stock/bond mix along a retirement-date glide path. A diversified retirement allocation matched to an approximate target year.",
+      "goal": "Adjust the stock/bond mix along a retirement-date glide path.",
+      "use": "A diversified retirement allocation matched to an approximate target year.",
+      "url": "https://www.capitalgroup.com/advisor/investments/mutual-funds/details/aftd70-a",
+      "risks": "Loss of principal is possible; diversification does not prevent losses. The target year does not guarantee principal or adequate funding.",
+      "performance": {
+        "status": "verified-historical",
+        "asOf": "2026-06-30",
+        "basis": "NAV annualized total return",
+        "returns": {
+          "1y": 21.23,
+          "3y": null,
+          "5y": null,
+          "10y": null,
+          "sinceInception": 19.36
+        },
+        "source": "https://www.capitalgroup.com/advisor/pdf/shareholder/MFAASSX-187-1060064.pdf",
+        "sourceHeading": "Investment results: 3M / YTD / 1Y / 3Y / 5Y / 10Y / Lifetime",
+        "note": "Quarterly fact-sheet snapshot, not a live quote. Returns over one year are annualized; distributions reinvested and fund expenses reflected. Past results do not predict future results. Null means not reported, not zero. NAV results exclude sales loads; purchase charges would reduce returns. Applicable fee waivers/reimbursements may improve reported returns."
+      },
+      "shareClass": "A",
+      "ticker": "AAFJX",
+      "inceptionDate": "2024-05-03"
+    },
+    {
+      "id": "capital-group-us-equity",
+      "name": "Capital Group U.S. Equity",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-equity.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-us-growth",
+      "name": "Capital Group U.S. Growth",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-growth.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-us-flexible-growth",
+      "name": "Capital Group U.S. Flexible Growth",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-flexible-growth.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-us-conservative-growth-and-income",
+      "name": "Capital Group U.S. Conservative Growth and Income",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth and income",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-conservative-growth-and-income.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-us-core",
+      "name": "Capital Group U.S. Core",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth and income",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-core.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "verified-historical",
+        "annualizedPercent": 13.0,
+        "period": "5 years",
+        "asOf": "2025-12-31",
+        "basis": "SMA composite net of model fees",
+        "source": "https://www.capitalgroup.com/advisor/investments/separately-managed-accounts.html",
+        "note": "Historical composite, not an individual account or forecast. Net results deduct a modeled 3% annual fee; actual fees differ. Distributions assumed reinvested. Source flags preliminary figures subject to change. Not updated to November 2026."
+      }
+    },
+    {
+      "id": "capital-group-us-flexible-growth-and-income",
+      "name": "Capital Group U.S. Flexible Growth and Income",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth and income",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-flexible-growth-and-income.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-us-income-and-growth",
+      "name": "Capital Group U.S. Income and Growth",
+      "type": "SMA",
+      "category": "U.S. equity",
+      "goal": "Growth and income",
+      "description": "A separately managed u.s. equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-income-and-growth.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-international-equity",
+      "name": "Capital Group International Equity",
+      "type": "SMA",
+      "category": "Global/international equity",
+      "goal": "Growth",
+      "description": "A separately managed global/international equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-international-equity.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "verified-historical",
+        "annualizedPercent": 4.22,
+        "period": "5 years",
+        "asOf": "2025-12-31",
+        "basis": "SMA composite net of model fees",
+        "source": "https://www.capitalgroup.com/advisor/investments/separately-managed-accounts.html",
+        "note": "Historical composite, not an individual account or forecast. Net results deduct a modeled 3% annual fee; actual fees differ. Distributions assumed reinvested. Source flags preliminary figures subject to change. Not updated to November 2026."
+      }
+    },
+    {
+      "id": "capital-group-international-growth",
+      "name": "Capital Group International Growth",
+      "type": "SMA",
+      "category": "Global/international equity",
+      "goal": "Growth",
+      "description": "A separately managed global/international equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-international-growth.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-global-equity",
+      "name": "Capital Group Global Equity",
+      "type": "SMA",
+      "category": "Global/international equity",
+      "goal": "Growth",
+      "description": "A separately managed global/international equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-global-equity.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-global-growth",
+      "name": "Capital Group Global Growth",
+      "type": "SMA",
+      "category": "Global/international equity",
+      "goal": "Growth",
+      "description": "A separately managed global/international equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-global-growth.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "verified-historical",
+        "annualizedPercent": 6.91,
+        "period": "5 years",
+        "asOf": "2025-12-31",
+        "basis": "SMA composite net of model fees",
+        "source": "https://www.capitalgroup.com/advisor/investments/separately-managed-accounts.html",
+        "note": "Historical composite, not an individual account or forecast. Net results deduct a modeled 3% annual fee; actual fees differ. Distributions assumed reinvested. Source flags preliminary figures subject to change. Not updated to November 2026."
+      }
+    },
+    {
+      "id": "capital-group-world-dividend-growers",
+      "name": "Capital Group World Dividend Growers",
+      "type": "SMA",
+      "category": "Global/international equity",
+      "goal": "Growth and income",
+      "description": "A separately managed global/international equity strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-world-dividend-growers.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-core-bond",
+      "name": "Capital Group Core Bond",
+      "type": "SMA",
+      "category": "Taxable fixed income",
+      "goal": "Bond income",
+      "description": "A separately managed taxable fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-core-bond.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-core-plus",
+      "name": "Capital Group Core Plus",
+      "type": "SMA",
+      "category": "Taxable fixed income",
+      "goal": "Bond income",
+      "description": "A separately managed taxable fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-core-plus.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-us-intermediate-bond",
+      "name": "Capital Group U.S. Intermediate Bond",
+      "type": "SMA",
+      "category": "Taxable fixed income",
+      "goal": "Bond income",
+      "description": "A separately managed taxable fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-us-intermediate-bond.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-short-municipal",
+      "name": "Capital Group Short Municipal",
+      "type": "SMA",
+      "category": "Municipal fixed income",
+      "goal": "Tax-exempt income",
+      "description": "A separately managed municipal fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-short-municipal.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-intermediate-municipal",
+      "name": "Capital Group Intermediate Municipal",
+      "type": "SMA",
+      "category": "Municipal fixed income",
+      "goal": "Tax-exempt income",
+      "description": "A separately managed municipal fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-intermediate-municipal.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-long-municipal",
+      "name": "Capital Group Long Municipal",
+      "type": "SMA",
+      "category": "Municipal fixed income",
+      "goal": "Tax-exempt income",
+      "description": "A separately managed municipal fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-long-municipal.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    },
+    {
+      "id": "capital-group-municipal-income",
+      "name": "Capital Group Municipal Income",
+      "type": "SMA",
+      "category": "Municipal fixed income",
+      "goal": "Tax-exempt income",
+      "description": "A separately managed municipal fixed income strategy. Investors own securities directly rather than shares of a pooled fund.",
+      "use": "Study a customizable separately managed allocation. Availability and customization depend on the sponsor.",
+      "url": "https://www.capitalgroup.com/advisor/investments/sma/capital-group-municipal-income.htm",
+      "risks": "Investment losses, concentration and tax outcomes vary. Advisor detail pages require appropriate professional eligibility.",
+      "performance": {
+        "status": "unavailable",
+        "note": "No current return series verified for this entry. SMA composite results are not individual account returns."
+      }
+    }
+  ],
+  "accounts": [
+    {
+      "id": "collegeamerica-529",
+      "name": "CollegeAmerica 529",
+      "description": "Education savings account; qualified uses can receive favorable tax treatment.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/collegeamerica.html"
+    },
+    {
+      "id": "ugma-utma-custodial-account",
+      "name": "UGMA / UTMA custodial account",
+      "description": "An adult custodian manages assets owned by a minor until the applicable transfer age.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/ugma-utma.html"
+    },
+    {
+      "id": "coverdell-esa",
+      "name": "Coverdell ESA",
+      "description": "An education savings account with eligibility, contribution and qualified-use rules.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/esa.html"
+    },
+    {
+      "id": "traditional-ira",
+      "name": "Traditional IRA",
+      "description": "An individual retirement account generally offering tax-deferred growth; deduction and withdrawal rules apply.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/ira.html"
+    },
+    {
+      "id": "roth-ira",
+      "name": "Roth IRA",
+      "description": "An individual retirement account funded after tax, with tax-free qualified withdrawals and eligibility rules.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/ira.html"
+    },
+    {
+      "id": "simple-ira",
+      "name": "SIMPLE IRA",
+      "description": "An employer retirement arrangement for eligible small businesses with employee and employer contributions.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/simple-ira.html"
+    },
+    {
+      "id": "sep-ira",
+      "name": "SEP IRA",
+      "description": "An employer-funded retirement arrangement commonly used by small businesses and self-employed people.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/sep-ira.html"
+    },
+    {
+      "id": "403-b",
+      "name": "403(b)",
+      "description": "A workplace retirement arrangement for eligible education and nonprofit employees.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/403b.html"
+    },
+    {
+      "id": "individual-joint-taxable-account",
+      "name": "Individual / joint taxable account",
+      "description": "An investment account held by one person or joint owners, without retirement-account tax sheltering.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/individual-joint.html"
+    },
+    {
+      "id": "trust-account",
+      "name": "Trust account",
+      "description": "An account titled to a trust and managed under its governing terms.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/trust.html"
+    },
+    {
+      "id": "ableamerica",
+      "name": "ABLEAmerica",
+      "description": "A disability-related savings program with eligibility and qualified-expense rules.",
+      "url": "https://www.capitalgroup.com/individual/service-and-support/able.html"
+    },
+    {
+      "id": "401-k",
+      "name": "401(k)",
+      "description": "An employer-sponsored retirement plan with investment choices and contributions governed by its plan rules.",
+      "url": "https://www.capitalgroup.com/individual/investments/401k.html"
+    }
+  ],
+  "meta": {
+    "scope": "U.S. Capital Group learning directory: fund-level strategies with one selected share class, ETFs, interval funds, and separately managed account strategies. Not a worldwide or every-share-class catalog.",
+    "reviewed": "2026-11-16",
+    "limitations": [
+      "Snapshot of reviewed official pages; new, renamed or discontinued products may not yet be reflected.",
+      "Includes 41 core mutual funds, 31 series funds, 25 ETFs, 3 interval funds, and 19 SMA strategies; excludes insurance series, CITs, non-U.S. domiciles and state-specific SMA variants.",
+      "Mutual-fund ticker symbols refer only to the displayed share class. Fees, eligibility and results differ across classes.",
+      "Quarterly fact-sheet returns are included where verified, with individual period-end dates that differ by product. Newer funds lack long history. Blank periods are not zero. Three SMA examples use different historical composite/model-fee assumptions; do not rank across dates, vehicles or fee bases.",
+      "SMA pages may require registered investment adviser eligibility. No attestation or terms were accepted.",
+      "Descriptions and typical uses are educational explanations, not personalized investment or tax advice. Account groups are not an exhaustive list of registrations."
+    ],
+    "refreshPlan": "Reconcile official category listings quarterly and before relying on any product detail. Preserve stable IDs and rename history. For returns, record period end, annualized versus cumulative basis, NAV versus market price, share class, loads/fees, reinvestment assumptions and source; never mix reporting dates or fill missing returns with zero.",
+    "sources": [
+      "https://www.capitalgroup.com/advisor/investments/mutual-funds.html",
+      "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds.html",
+      "https://www.capitalgroup.com/advisor/investments/american-funds-portfolio-series.html",
+      "https://www.capitalgroup.com/advisor/investments/retirement-income-portfolio-series.html",
+      "https://www.capitalgroup.com/advisor/investments/target-date-retirement-series.html",
+      "https://www.capitalgroup.com/advisor/investments/target-date-college-series.html",
+      "https://www.capitalgroup.com/advisor/investments/public-private-plus.html",
+      "https://www.capitalgroup.com/advisor/investments/separately-managed-accounts.html",
+      "https://www.capitalgroup.com/individual/service-and-support.html"
+    ],
+    "performanceCoverage": {
+      "verifiedFundCount": 99,
+      "totalFundsExcludingSMA": 100,
+      "unresolved": [
+        {
+          "id": "afcp-f2",
+          "reason": "Official detail page returned an empty dynamic performance table and no fact-sheet link. Search extracts had values without an independently verified reporting date; excluded rather than inferred."
+        }
+      ],
+      "reviewed": "2026-11-16",
+      "shortHistoryCumulativeOnly": [
+        "usep-f2"
+      ],
+      "annualReturnFundCount": 98,
+      "audit": "Validated all 99 PDF table headers, seven-column row widths, NAV tickers, selected share classes and reporting dates. Manually checked equity, bond, ETF, target-date A, portfolio-series F-2 and interval rows. Equity+ lifetime value is kept separately as cumulative because inception was 2026-03-02."
+    }
+  }
+}
